@@ -31,7 +31,7 @@ export async function POST(request: Request) {
     });
 
     const mailOptions = {
-      from: `"${safeName}" <${process.env.SMTP_ADDRESS}>`,
+      from: `"${safeName}" <${email}>`,
       to: process.env.SMTP_ADDRESS,
       subject: 'Contact - LukasPro.pl',
       html: `
