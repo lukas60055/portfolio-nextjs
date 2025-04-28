@@ -17,6 +17,10 @@
       "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
+      "name": "Tailwind CSS",
+      "icon": "https://img.icons8.com/color/48/000000/tailwind_css.png"
+    },
+    {
       "name": "JavaScript",
       "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
@@ -56,12 +60,20 @@
       "icon": "https://img.icons8.com/color/48/ffffff/express-js.png"
     },
     {
+      "name": "Sequelize",
+      "icon": "/icons/sequelize.svg"
+    },
+    {
       "name": "Knex.js",
       "icon": "/icons/knex-js.svg"
     },
     {
       "name": "JWT",
-      "icon": "/icons/jwt.svg"
+      "icon": "https://img.icons8.com/color/48/000000/java-web-token.png"
+    },
+    {
+      "name": "Swagger",
+      "icon": "/icons/swagger.svg"
     },
     {
       "name": "PHP",
